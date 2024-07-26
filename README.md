@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/arpitbiyaniazz/PROJECT-PORTFOLIO?style=social)
 
 It is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
-for more reference you may go to website demo image folder > [demo video](./website-demo-image/demo-video.mp4)
+for more reference you may go to website demo image folder > demo video.mp4
 
 ## Demo
 
