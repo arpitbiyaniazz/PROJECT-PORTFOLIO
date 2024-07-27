@@ -6,6 +6,9 @@
 It is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 for more reference you may go to website demo image folder > demo video.mp4
 
+## live
+My website is live on netlify [visit now](https://arpitbiyaniaz.netlify.app/)
+
 ## Demo
 
 ![ Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
